@@ -15,7 +15,7 @@ Write tabular data row by row into a Parquet table (PyArrow Table)
 Synopsis
 ~~~~~~~~
 
-.. code-block::python
+.. code-block:: python
 
     import pyarrow as pa
     import pyarrow.parquet as pq
